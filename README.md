@@ -2,12 +2,14 @@
   <Strong>🐝 Bee Honey - Python</Strong>
  </h1>
 
+<div align="center">
   <img src=".\assets\ws.gif" />
-
+</div>
 ---
 
 ## 🔎 Índice
 
+- [</div>](#div)
 - [🔎 Índice](#-índice)
 - [🎮 Sobre](#-sobre)
 - [💻 Tecnologias utilizadas](#-tecnologias-utilizadas)
